@@ -19,4 +19,8 @@ UNCHANGED: Μεταβολή Μετοχών (Δ" Shares") = 0
 Αντιγραφή νέων XML URLs από το SEC EDGAR.
 Στο Excel: Data →Queries & Connections →δεξί κλικ στο query →Edit →αλλαγή URL στο βήμα Source.
 Πατήστε Data →Refresh All.
-![Uploading εικόνα.png…]()
+
+
+<img width="1658" height="678" alt="εικόνα" src="https://github.com/user-attachments/assets/3e099421-49c3-40c0-bb77-af1d96ed5df9" />
+
+
